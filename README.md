@@ -1,4 +1,4 @@
-# [**ide.frostminded**](https://ide.frostminded.com) Demo with Completed [**Docplanner Task**](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing)
+# [**ide.frostminded**](https://ide.frostminded.com) demo with completed [**Docplanner Task**](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing)
 
 [React Native](https://reactnative.dev) project made on base of the completed tech task for Docplanner, [here is task description](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing) (I did not get hired so might be not best example), bootstrapped using [@react-native-community/cli](https://github.com/react-native-community/cli), enjected with several friquently used tools and integrated with [ide.frostminded](https://ide.frostminded.com).
 
