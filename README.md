@@ -1,10 +1,10 @@
-# Docplanner Tech Task
+# [**ide.frostminded**](https://ide.frostminded.com) Demo with Completed [**Docplanner Task**](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing)
 
-This is my [Docplanner Task](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing), which itself is [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli), enjected with several friquently used tools and integrated with [**ide.frostminded**](https://ide.frostminded.com).
+[React Native](https://reactnative.dev) project made on base of the completed tech task for Docplanner, [here is task description](https://drive.google.com/file/d/1b0kTnUdeRzSaSsTrISawP4Px0ANRbCjN/view?usp=sharing) (I did not get hired so might be not best example), bootstrapped using [@react-native-community/cli](https://github.com/react-native-community/cli), enjected with several friquently used tools and integrated with [ide.frostminded](https://ide.frostminded.com).
 
 # Getting Started
 
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> Note: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Install JS Dependencies
 
@@ -125,7 +125,6 @@ Navigate to Extension Marketplace and check if you have all the recommended exte
 - **`yarn ios`**: Builds and runs the app on an iOS device or simulator.
 - **`yarn lint`**: Runs ESLint to find and fix linting issues.
 - **`yarn test`**: Runs the Jest test suite to ensure code correctness. Ignores transformations for specific node_modules as configured.
-- **`yarn generate`**: Uses Plop to generate code templates and formats the generated files using Prettier.
 - **`yarn install-npm-packages`**: Installs all npm packages listed in the package.json file.
 - **`yarn watchman-reset`**: Shuts down the Watchman server.
 - **`yarn link-assets`**: Uses react-native-asset to link assets.
@@ -165,11 +164,6 @@ Navigate to Extension Marketplace and check if you have all the recommended exte
 
   - **Purpose**: Runs all unit tests using Jest to verify the correctness of the codebase.
   - **Usage**: Ensures the application behaves as expected and helps catch regressions.
-
-- **`yarn generate`**:
-
-  - **Purpose**: Generates code templates using Plop and formats them with Prettier.
-  - **Usage**: Speeds up development by automating repetitive coding tasks.
 
 - **`yarn install-npm-packages`**:
 

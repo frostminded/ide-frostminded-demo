@@ -32,8 +32,5 @@ then
 ```bash
 git commit -m "init: react native cli template"
 ```
-Than is it!
 
-###  I wish you find your place in world.
-### Get it done!
 ### Good luck
